@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "‘Racism’: Qataris decry French cartoon of national football team",
+            "description": "Caricature published by Le Canard enchainé in its October issue which focuses on Qatar and its role as World Cup host.",
+            "url": "http://www.aljazeera.com/news/2022/11/8/islamophobia-qataris-decry-french-cartoon-of-football-team",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2019/12/70580ceea285465d926010fa694a644a_18.jpeg?resize=1200%2C675",
+            "publishedAt": "2022-11-08T10:17:39Z",
+            "content": "A cartoon by a French newspaper depicting Qatari footballers as terrorists has sparked outrage on social media, with users calling out its blatant Islamophobia and racism.\r\nThe caricature was publish… [+3377 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "EFL Cup build-up & more football news",
+            "description": "Previews as the EFL Cup reaches the third-round stage, plus all the latest football news and transfer talk.",
+            "url": "http://www.bbc.co.uk/sport/football/live/ckd4lwn1rgvt",
+            "urlToImage": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/sport/images/metadata/poster-1024x576.png",
+            "publishedAt": "2022-11-08T09:22:19.5748689Z",
+            "content": "Hello again from the BBC Sport newsroom.\r\nIt's hard to know where to start after an unusually busy Monday.\r\nRevelations coming out of Liverpool about the potential sale of the club dominated yesterda… [+542 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": null,
+            "title": "Vanderbilt football assistant takes 'step back' after pro-Ye post",
+            "description": "Vanderbilt AD Candice Lee said defensive backs coach Dan Jackson will \"step back\" from his job while the school continues a review of his recent comment on social media defending the rapper formerly known as Kanye West.",
+            "url": "http://espn.go.com/college-football/story/_/id/34976644/vanderbilt-football-assistant-takes-step-back-pro-ye-post",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2014%2F1015%2Ffan_g_fg2_cr_1296x729.jpg",
+            "publishedAt": "2022-11-08T05:11:00Z",
+            "content": "NASHVILLE, Tenn. -- Vanderbilt athletic director Candice Lee said defensive backs coach Dan Jackson will \"step back\" from his job while the university continues an internal review of his recent comme… [+1183 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": null,
+            "title": "NFL Week 9 top plays: Follow Ravens-Saints on Monday Night Football",
+            "description": "Week 9 of the NFL season concludes Monday when the Baltimore Ravens travel to take on the New Orleans Saints. Here are the top plays!",
+            "url": "http://www.foxsports.com/stories/nfl/ravens-saints-monday-night-football-top-plays",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/11/1408/814/11.01.22_NFL-Top-Moments_MNF_Ravens-Saints_16x9.jpg?ve=1&tl=1",
+            "publishedAt": "2022-11-08T01:11:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+            "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+            "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+            "publishedAt": "2020-04-27T07:20:43Z",
+            "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+        }
+    ]
+}
